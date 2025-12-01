@@ -1,0 +1,8 @@
+# Ignore virtual environment
+venv_deepface/
+
+# Ignore large dataset folder
+faces/
+
+# Ignore macOS specific files
+.DS_Store
