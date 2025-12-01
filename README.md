@@ -18,8 +18,8 @@ The script then outputs a sorted list of the most similar faces found in the dat
 
 1.  **Clone the repository:**
     ```
-    git clone <your-repository-link>
-    cd <repository-name>
+    git clone https://github.com/GeorgeMrls/Face_Recon.git
+    cd ./Face_Recon
     ```
 
 2.  **Create and activate a virtual environment:**
